@@ -1,15 +1,21 @@
-# DS_Projects-
+# EDA and classification modelling
 
 ## Description
-A repository of data science related analyses big and small :-D
+I apply data science skillsets in analyzing sales data.
 
 ### Motivation
 
 To provide examples to potential employers about what skills I can demonstrate.
 
-## Contents 
-Sales data EDA and classification modelling.
-Statistical significance and effect size of an air precleaner for C-175 engine performance using sensor data.
+## What's is shown?:
+1. Data cleaning / formatting.
+2. Exploratory data analysis.
+3. EDA commentary and follow up questions.
+4. Feature evaluation and selection.
+5. Model selection.
+6. Feature scaling and encoding.
+7. Model accuracy / metrics.
+
 
 ## License
 
